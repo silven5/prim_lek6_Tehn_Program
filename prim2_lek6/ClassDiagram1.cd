@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="prim2_lek6.Class.Cat">
+    <Position X="1.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAABAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Class\Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prim2_lek6.Class.Dog">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Class\Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prim2_lek6.Class.Pet">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAFAACAQCAAAIAAAAA=</HashCode>
+      <FileName>Class\Pet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
